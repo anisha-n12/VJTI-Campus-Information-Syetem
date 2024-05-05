@@ -1,0 +1,1 @@
+var json_heading_1 = {"type":"FeatureCollection","name":"heading_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"2","value":"VJTI Campus Information System"},"geometry":{"type":"Point","coordinates":[72.854277909007465,19.025776836718993]}}]}
